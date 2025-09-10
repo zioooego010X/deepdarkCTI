@@ -9,25 +9,25 @@
 |https://t.me/banklogplug2|OFFLINE|Bank Logs|
 |https://t.me/berserklogs|ONLINE| Redline Stealer |
 |https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
-|https://t.me/bradmax_cloud|OFFLINE| Redline and Raccoon Data Logs |
-|https://t.me/cbanke_logs|ONLINE| Log Leaks Channel|
-|https://t.me/CloudLogsPrivate|OFFLINE| UnixSeller89 Redline Stealer |
-|https://t.me/cloudlogs|ONLINE| Redline LogZone
-|https://t.me/cloudmika|ONLINE| Redline Logs
+|https://t.me/bradmax_cloud|EXPIRED| Redline and Raccoon Data Logs |
+|https://t.me/cbanke_logs|EXPIRED| Log Leaks Channel|
+|https://t.me/CloudLogsPrivate|EXPIRED| UnixSeller89 Redline Stealer |
+|https://t.me/cloudlogs|EXPIRED| Redline LogZone
+|https://t.me/cloudmika|EXPIRED| Redline Logs
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
-|https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|
-|https://t.me/eliteband|OFFLINE| Logs |
-|https://t.me/fatecloud|ONLINE| Fatecloud Logs|
+|https://t.me/database_leak|EXPIRED|Leaked Database & Fresh Log|
+|https://t.me/eliteband|EXPIRED| Logs |
+|https://t.me/fatecloud|EXPIRED| Fatecloud Logs|
 |https://t.me/frilogs|OFFLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
 |https://t.me/HUBLOGS|OFFLINE| Redline Malware Logs |
-|https://t.me/joinchat/aLzjwn_93JtkMDA8|VALID| Logs Market|
-|https://t.me/joinchat/Cyv2m5zFE6JmMjVi|VALID| Logs |
-|https://t.me/joinchat/ZST8YodAuzo2NGVk|VALID|Logs Market|
-|https://t.me/leaklogs_official|ONLINE|LeakLogs Official|
-|https://t.me/Log_Market_Place|ONLINE| Data Leaks|
-|https://t.me/logsgang2|ONLINE|Logs Market|
-|https://t.me/LuxuryLogsCloud|ONLINE| Luxury Logs Redline Stealer |
-|https://t.me/MalwareLogs|ONLINE| Logs |
+|https://t.me/joinchat/aLzjwn_93JtkMDA8|EXPIRED| Logs Market|
+|https://t.me/joinchat/Cyv2m5zFE6JmMjVi|EXPIRED| Logs |
+|https://t.me/joinchat/ZST8YodAuzo2NGVk|EXPIRED|Logs Market|
+|https://t.me/leaklogs_official|EXPIRED|LeakLogs Official|
+|https://t.me/Log_Market_Place|EXPIRED| Data Leaks|
+|https://t.me/logsgang2|EXPIRED|Logs Market|
+|https://t.me/LuxuryLogsCloud|EXPIRED| Luxury Logs Redline Stealer |
+|https://t.me/MalwareLogs|EXPIRED| Logs |
 |https://t.me/MarkLogsBot|OFFLINE| Logs Market |
 |https://t.me/marvelcloudRB|ONLINE| Marvel Logs|
 |https://t.me/Moon_Log|ONLINE| Moon Cloud - Free Logs |
